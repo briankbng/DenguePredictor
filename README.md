@@ -30,9 +30,9 @@ We would like to help in this global mission to prevent dengue by building an In
 
 `Refer to the Video Folder`
 
-1. Business Case [video here](https://github.com/briankbng/DenguePredictor/Video/Intelligent Dengue Predictor_Business Case.mp4)
+1. Business Case [video here]("https://github.com/briankbng/DenguePredictor/Video/Intelligent Dengue Predictor_Business Case.mp4")
 
-2. High Level Technical [video here](https://github.com/briankbng/DenguePredictor/Video/Intelligent Dengue Predictor_High Level Technical.mp4)
+2. High Level Technical [video here]("https://github.com/briankbng/DenguePredictor/Video/Intelligent Dengue Predictor_High Level Technical.mp4")
 
 
 ---
