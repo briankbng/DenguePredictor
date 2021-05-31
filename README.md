@@ -1,6 +1,7 @@
 # IRS-PM-2021-01-16-IS03PT-GRP-AIPredictors-IntelligentDenguePredictor
 ## SECTION 1 : PROJECT TITLE
-## Intelligent Dengue Predictor
+Intelligent Dengue Predictor
+
 <img src="CoverImage.png" style="float: left; margin-right: 0px;" />
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
@@ -40,7 +41,7 @@ We would like to help in this global mission to prevent dengue by building an In
 
 ## SECTION 5 : USER GUIDE
 
-### To run the system in local machine:
+To run the system in local machine:
 
 Refer to project report (Intelligent Dengue Predictor Project Report.pdf) : [Folder here](https://github.com/briankbng/DenguePredictor/blob/main/ProjectReport/)
 
