@@ -1,7 +1,8 @@
 # IRS-PM-2021-01-16-IS03PT-GRP-AIPredictors-IntelligentDenguePredictor
 ## SECTION 1 : PROJECT TITLE
 ## Intelligent Dengue Predictor
-![IntelligentDenguePredictor]
+<img src="CoverImage.png" style="float: left; margin-right: 0px;" />
+
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 According to the World Health Organization (WHO), dengue is a mosquito-borne viral infection typically found in tropical and sub-tropical climates worldwide and occurring mostly in urban and semi-urban areas. 
 
