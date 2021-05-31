@@ -1,0 +1,9 @@
+Group name: AI Predictors
+
+BAI SIHAI / A0229986E
+LU ZHIPING / A0229959E
+MEN JINLONG / A0229972N
+NG KWEE BOON / A0010308B
+
+Weblink to github project repository: https://github.com/briankbng/DenguePredictor
+

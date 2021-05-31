@@ -1,0 +1,14 @@
+setuptools~=51.3.3
+pandas~=1.2.3
+matplotlib~=3.3.4
+numpy~=1.19.5
+click~=7.1.2
+lightgbm~=3.2.1
+flask~=1.1.2
+flask_bootstrap~=3.3.7.1
+flask_wtf~=0.14.3
+datetime~=4.3
+bokeh~=2.3.1
+typing~=3.7.4.3
+pathlib~=1.0.1
+scikit-learn~=0.24.2
