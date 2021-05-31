@@ -49,8 +49,7 @@ Open a browser and input url : localhost:8888  in the address bar to jump to the
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`Refer to project report at Github Folder: ProjectReport`
-(ProjectReport/Intelligent Dengue Predictor Project Report.pdf)]
+Refer to project report (Intelligent Dengue Predictor Project Report.pdf) : [Folder here](https://github.com/briankbng/DenguePredictor/blob/main/ProjectReport/)
 - Executive Summary
 - Background
 - System Design / Model
