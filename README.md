@@ -42,6 +42,7 @@ We would like to help in this global mission to prevent dengue by building an In
 ### To run the system in local machine:
 
 `Refer to project report at Github Folder: ProjectReport\Intelligent Dengue Predictor Project Report.pdf`
+[Folder here](https://github.com/briankbng/DenguePredictor/blob/main/ProjectReport/)
 
 Run the app.py file in the folder, and the flask project will start. 
 
